@@ -1,3 +1,376 @@
 
+url ;  https://api.themoviedb.org/3/discover/tv?api_key=355ddd6fd36b81f13a21597c092112f1&with_networks=213
+
 
 TMDB : API    355ddd6fd36b81f13a21597c092112f1
+
+
+Imported Data   
+
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+      "genre_ids": [10759, 9648, 18],
+      "id": 93405,
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "오징어 게임",
+      "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+      "popularity": 1989.181,
+      "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+      "first_air_date": "2021-09-17",
+      "name": "Squid Game",
+      "vote_average": 7.86,
+      "vote_count": 15398
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eGPH1IwktalozwCmeLTp3aPbHGC.jpg",
+      "genre_ids": [10764],
+      "id": 4656,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Raw",
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "popularity": 649.358,
+      "poster_path": "/7wq6uV8YRdWNEyI9TY5k80yWENg.jpg",
+      "first_air_date": "1993-01-11",
+      "name": "Raw",
+      "vote_average": 6.8,
+      "vote_count": 326
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
+      "genre_ids": [10759, 18, 35],
+      "id": 77169,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Cobra Kai",
+      "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+      "popularity": 608.955,
+      "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+      "first_air_date": "2018-05-02",
+      "name": "Cobra Kai",
+      "vote_average": 8.2,
+      "vote_count": 6410
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wbiPjTWpZMIB8ffBq7HvzAph4Ft.jpg",
+      "genre_ids": [80, 10765],
+      "id": 63174,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Lucifer",
+      "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+      "popularity": 573.219,
+      "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+      "first_air_date": "2016-01-25",
+      "name": "Lucifer",
+      "vote_average": 8.5,
+      "vote_count": 14863
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wPNBOUMxSWKysHxQW4Q1hC99L4k.jpg",
+      "genre_ids": [10767, 35],
+      "id": 66488,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Chelsea",
+      "overview": "It's not her first talk show, but it is a first of its kind. Ideas, people and places that fascinate her, all in her unique style.",
+      "popularity": 527.316,
+      "poster_path": "/lDbyyKRDk5FmDY98eCc97gUEZod.jpg",
+      "first_air_date": "2016-05-11",
+      "name": "Chelsea",
+      "vote_average": 5,
+      "vote_count": 68
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AmIHaw6CQWOfBCQYom15Jzsu7OB.jpg",
+      "genre_ids": [16, 35, 18],
+      "id": 61222,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "BoJack Horseman",
+      "overview": "Meet the most beloved sitcom horse of the '90s , 20 years later. He's a curmudgeon with a heart of...not quite gold...but something like gold. Copper?",
+      "popularity": 437.904,
+      "poster_path": "/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+      "first_air_date": "2014-08-22",
+      "name": "BoJack Horseman",
+      "vote_average": 8.6,
+      "vote_count": 2471
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gklrevVndG98GHGDwfm8y8kxESo.jpg",
+      "genre_ids": [18, 9648, 10759],
+      "id": 129552,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Night Agent",
+      "overview": "Brought together by a midnight phone call, an FBI agent and a cybersecurity expert must unravel an ever-growing web of political conspiracies.",
+      "popularity": 406.499,
+      "poster_path": "/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
+      "first_air_date": "2023-03-23",
+      "name": "The Night Agent",
+      "vote_average": 7.8,
+      "vote_count": 818
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+      "genre_ids": [18, 10765, 9648],
+      "id": 66732,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "popularity": 386.171,
+      "poster_path": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "first_air_date": "2016-07-15",
+      "name": "Stranger Things",
+      "vote_average": 8.6,
+      "vote_count": 17997
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xlyT6E0jceTQ9s4BpHY6PkeOilr.jpg",
+      "genre_ids": [35],
+      "id": 50524,
+      "origin_country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "original_name": "เป็นต่อ",
+      "overview": "A successful man at a publishing company tries to rekindle his romance with an ex-girlfriend as those around him also search for love amidst conflict.",
+      "popularity": 363.419,
+      "poster_path": "/3pCGtGxRjxY9ZBfoCVh3gLhc5Fy.jpg",
+      "first_air_date": "2004-10-07",
+      "name": "Pen Tor",
+      "vote_average": 8.8,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rKsd2InqKFH4NMPCTBFDo6m4tnm.jpg",
+      "genre_ids": [10759, 18, 10765],
+      "id": 99966,
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "지금 우리 학교는",
+      "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+      "popularity": 279.443,
+      "poster_path": "/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+      "first_air_date": "2022-01-28",
+      "name": "All of Us Are Dead",
+      "vote_average": 8.3,
+      "vote_count": 3977
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qbxoEhlxNcyr7GjG2SXTShWn32m.jpg",
+      "genre_ids": [16, 10759, 80, 18],
+      "id": 80623,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "バキ",
+      "overview": "While martial arts champion Baki Hanma trains hard to surpass his legendary father, five violent death row inmates descend upon Tokyo to take him on.",
+      "popularity": 278.731,
+      "poster_path": "/j4bL0G8h8k49MuXKYfZqhXqk2rI.jpg",
+      "first_air_date": "2018-06-26",
+      "name": "BAKI",
+      "vote_average": 8.1,
+      "vote_count": 1308
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uU6YW3N11qECNfz18LNGAGg3Uir.jpg",
+      "genre_ids": [80, 9648, 18],
+      "id": 76669,
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "Élite",
+      "overview": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+      "popularity": 264.324,
+      "poster_path": "/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg",
+      "first_air_date": "2018-10-05",
+      "name": "Elite",
+      "vote_average": 8,
+      "vote_count": 9195
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bKxiLRPVWe2nZXCzt6JPr5HNWYm.jpg",
+      "genre_ids": [18, 9648, 10759],
+      "id": 110316,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "今際の国のアリス",
+      "overview": "With his two friends, a video-game-obsessed young man finds himself in a strange version of Tokyo where they must compete in dangerous games to win.",
+      "popularity": 262.895,
+      "poster_path": "/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg",
+      "first_air_date": "2020-12-10",
+      "name": "Alice in Borderland",
+      "vote_average": 8.2,
+      "vote_count": 2127
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h0CQ36rm9cSLznve5ocCDtYlnwN.jpg",
+      "genre_ids": [35, 18],
+      "id": 195670,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "XO, Kitty",
+      "overview": "Teen matchmaker Kitty Song Covey thinks she knows everything there is to know about love. But when she moves halfway across the world to reunite with her long-distance boyfriend, she'll soon realize that relationships are a lot more complicated when it's your own heart on the line.",
+      "popularity": 259.904,
+      "poster_path": "/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg",
+      "first_air_date": "2023-05-18",
+      "name": "XO, Kitty",
+      "vote_average": 8.1,
+      "vote_count": 483
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
+      "genre_ids": [37, 18, 10759],
+      "id": 215866,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "American Primeval",
+      "overview": "A mother and son fleeing from their past form a found family while confronting a harsh landscape of freedom and cruelty in the American West.",
+      "popularity": 258.363,
+      "poster_path": "/ff0s9OHGNSZL6cVteIb7LNvTnJD.jpg",
+      "first_air_date": "2025-01-09",
+      "name": "American Primeval",
+      "vote_average": 7.689,
+      "vote_count": 196
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u23G9KZregWHs1use6ir1fX27gl.jpg",
+      "genre_ids": [35, 18],
+      "id": 81356,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Sex Education",
+      "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+      "popularity": 256.384,
+      "poster_path": "/bc3bmTdnoKcRuO9xdQKgAbB7Y9Z.jpg",
+      "first_air_date": "2019-01-11",
+      "name": "Sex Education",
+      "vote_average": 8.2,
+      "vote_count": 7365
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wQEW3xLrQAThu1GvqpsKQyejrYS.jpg",
+      "genre_ids": [16, 10765, 18, 10759],
+      "id": 94605,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Arcane",
+      "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+      "popularity": 256.044,
+      "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+      "first_air_date": "2021-11-06",
+      "name": "Arcane",
+      "vote_average": 8.782,
+      "vote_count": 4883
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fQsIJQxE1D0Y0NpWSKwo489y5px.jpg",
+      "genre_ids": [10764],
+      "id": 204082,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Squid Game: The Challenge",
+      "overview": "In this reality competition show inspired by \"Squid Game,\" 456 players put their skills to the ultimate test for a life-changing $4.56 million prize.",
+      "popularity": 244.051,
+      "poster_path": "/y85L9DWoaM2MYNg1p8QRywxXJsa.jpg",
+      "first_air_date": "2023-11-22",
+      "name": "Squid Game: The Challenge",
+      "vote_average": 6.3,
+      "vote_count": 464
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eMopbs8KemUTttra1jUYsSGlyRz.jpg",
+      "genre_ids": [35, 18],
+      "id": 261615,
+      "origin_country": [
+        "AR"
+      ],
+      "original_language": "es",
+      "original_name": "Envidiosa",
+      "overview": "After a devastating breakup, Vicky, almost 40, embarks on a quest for new love, unaware it will lead her to a profound—and hilarious—self-discovery.",
+      "popularity": 243.68,
+      "poster_path": "/qYw979lIT163wN2z2P6DHoVEftj.jpg",
+      "first_air_date": "2024-09-18",
+      "name": "Envious",
+      "vote_average": 7.7,
+      "vote_count": 49
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dQOphbONxlpPsKo30araFr0CYMO.jpg",
+      "genre_ids": [10765, 18, 10759],
+      "id": 71912,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Witcher",
+      "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+      "popularity": 239.858,
+      "poster_path": "/cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg",
+      "first_air_date": "2019-12-20",
+      "name": "The Witcher",
+      "vote_average": 8,
+      "vote_count": 5986
+    }
+  ],
+  "total_pages": 117,
+  "total_results": 2337
+}
